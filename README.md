@@ -2,7 +2,7 @@
 
 ![Nathanael's github stats](https://github-readme-stats.vercel.app/api?username=nathanaelassis&count_private=true&show_icons=true&theme=buefy&hide=prs,issues,contribs)
 
-### Work 🔭
+### Work from:
 SRE | DevOps Enginner | Cloud
 
 ----------------------------------------------
