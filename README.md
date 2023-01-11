@@ -18,7 +18,7 @@
 
 
 ### Work from:
-SRE | DevOps Enginner | Cloud
+Platform Engineer { SRE | DevOps | Cloud }
 
 ----------------------------------------------
 
